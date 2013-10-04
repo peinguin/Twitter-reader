@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "twitter-js-client": "*",
+    "socket.io": "*"
+  }
+}

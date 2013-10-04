@@ -1,0 +1,4 @@
+node/server/node_modules/*
+node/server/config.js
+php/server/config.php
+php/client/config.js
